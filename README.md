@@ -1,5 +1,6 @@
 # HRNet-2019practicespace
-实践空间站-基于HR-Net的案例创新实践成果提交处
+
+2019MSCPracticeSpace-HR-Net
 
 ### [基于高分辨率网络 (HR-Net) 的案例创新实践](http://studentclub.msra.cn/project/institute/25)
 高分辨率深度神经网络（High-Resolution Network，HRNet），在 网络整个过程中始终保持高分辨率表征，同时多次在高低分辨率表征之间进行信息交换，从而得到足够丰富的高分辨率表征。一经发布，横扫各大数据集记录。项目的过程中将会建立微信群，由微软亚洲研究院研究员和工程师对学习进行指导，并在项目完成后进行统一评审。
